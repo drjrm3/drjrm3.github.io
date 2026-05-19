@@ -1,6 +1,6 @@
 baseURL = "https://drjrm3.github.io/"
 defaultContentLanguage = "en"
-languageCode = "en-us"
+locale = "en-us"
 title = "drjrm3"
 theme = "congo"
 

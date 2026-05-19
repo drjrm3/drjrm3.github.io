@@ -37,3 +37,7 @@ enableCodeCopy = true
 
 [taxonomy]
   showTermCount = true
+
+[author]
+  name = "Robert"
+  headline = "Food · Math · Tech"
