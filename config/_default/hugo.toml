@@ -1,0 +1,20 @@
+baseURL = "https://drjrm3.github.io/"
+defaultContentLanguage = "en"
+languageCode = "en-us"
+title = "drjrm3"
+theme = "congo"
+
+enableEmoji = true
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"

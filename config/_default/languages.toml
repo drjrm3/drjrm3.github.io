@@ -1,0 +1,7 @@
+[en]
+  languageName = "English"
+  weight = 1
+
+  [en.params.author]
+    name = "Robert"
+    headline = "Food · Math · Tech"
