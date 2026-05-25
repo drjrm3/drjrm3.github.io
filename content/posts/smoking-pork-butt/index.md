@@ -1,7 +1,7 @@
 ---
 title: "Smoking a Pork Butt Low and Slow"
 date: 2026-05-24
-draft: true
+draft: false
 tags: ["pork", "low-and-slow", "pulled-pork"]
 categories: ["smoking"]
 series: ["Smoking"]
